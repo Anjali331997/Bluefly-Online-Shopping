@@ -32,7 +32,9 @@
   }
   
   #upheader>div{
-    width: 30%;
+    width: 35%;
+    display: flex;
+    justify-content: flex-start;
     /* border: 1px solid black; */
   }
   
